@@ -77,7 +77,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://github.com/milieudefensie/website/edit/main/docs/:path',
+      pattern: 'https://github.com/milieudefensie/docs/edit/main/docs/:path',
     },
   },
 })
