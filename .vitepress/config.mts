@@ -61,8 +61,8 @@ export default defineConfig({
           { text: '✅ Features', link: '/developers/features' },
           { text: '🛠️ Tech stack', link: '/developers/tech-stack' },
           {
-            text: '👀 Storybook',
-            link: 'https://milieudefensie-storybook.pages.dev/',
+            text: '🧱 Reusable components',
+            link: '/developers/components',
           },
           {
             text: '👩‍💻 GitHub repro',
