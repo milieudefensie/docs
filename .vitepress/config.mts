@@ -15,7 +15,14 @@ export default defineConfig({
     },
     nav: [
       { text: 'Strategy', link: '/strategy/' },
-      { text: 'Storybook', link: '' },
+      {
+        text: 'Storybook',
+        link: 'https://milieudefensie-storybook.pages.dev/',
+      },
+      {
+        text: 'Milieudefensie website',
+        link: 'https://milieudefensie.nl/',
+      },
     ],
 
     sidebar: [
@@ -26,20 +33,37 @@ export default defineConfig({
       {
         text: 'Strategy',
         items: [
-          { text: '🎯 Website strategy', link: '/strategy/' },
-          { text: '📝 Primary signup form', link: '/strategy/signup' },
-          { text: '📆 Events', link: '/strategy/events' },
-          { text: '📍 Local groups', link: '/strategy/local-groups' },
-          { text: '📖 Training & support', link: '/strategy/training-support' },
-          { text: '🗺️ Dashboard', link: '/strategy/dashboard' },
+          { text: 'Website strategy', link: '/strategy' },
+
+          {
+            text: 'Pages',
+            items: [
+              { text: '🏡 Home', link: '/strategy/home' },
+              { text: '👉 Start contributing', link: '/strategy/contribute' },
+              { text: '❤️ Become member', link: '/strategy/member' },
+              { text: '💬 Signal / WhatsApp', link: '/strategy/signal' },
+              { text: '📱 Online campaigns', link: '/strategy/campaigns' },
+              { text: '💰 Donate', link: '/strategy/donate' },
+              { text: '📆 Events', link: '/strategy/events' },
+              { text: '📍 Local groups', link: '/strategy/local-groups' },
+              {
+                text: '📖 Training & support',
+                link: '/strategy/training-support',
+              },
+              { text: '🗺️ Dashboard', link: '/strategy/dashboard' },
+            ],
+          },
         ],
       },
       {
         text: 'Developers',
         items: [
-          { text: '✅ Features', link: '/' },
-          { text: '🛠️ Tech stack', link: '/' },
-          { text: '👀 Storybook', link: '/' },
+          { text: '✅ Features', link: '/developers/features' },
+          { text: '🛠️ Tech stack', link: '/developers/tech-stack' },
+          {
+            text: '👀 Storybook',
+            link: 'https://milieudefensie-storybook.pages.dev/',
+          },
           {
             text: '👩‍💻 GitHub repro',
             link: 'https://github.com/milieudefensie/website',

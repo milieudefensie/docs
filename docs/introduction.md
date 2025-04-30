@@ -2,7 +2,9 @@
 
 On this website, you will find documentation and strategy for the open source campaign website of Milieudefensie.
 
-These articles are meant both for own internal staff to use (web developers, digital organizers, etc.), as well as for other organisations who are looking for inspiration for their own tech stack. By developing the Milieudefensie website as an open source project, we hope to stimulate collaboration among digital organizers and developers in the broader social change community.
+We have put a lot of time, energy and money into our campaign website. Rather than just sharing the public website and the code, we also want to share our strategy and thought process behind the final result. This way, we aim to explain the reasoning behind our choices, so that we take that as a starting point for improvements in the future, rather than starting from scratch.
+
+These articles are meant both for own internal Milieudefensie staff to use (web developers, digital organizers, online marketeers, communication experts, etc), as well as for other organisations who are looking for inspiration for their own tech stack. By developing the Milieudefensie website as an open source project, we hope to stimulate collaboration among digital organizers and developers in the broader social change community.
 
 - [Strategy](/strategy)
 - Storybook

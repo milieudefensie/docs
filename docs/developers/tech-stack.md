@@ -16,4 +16,4 @@ This campaign website is build using the [Jamstack](https://jamstack.org/) archi
 
 **Integrations:**
 
-- [PostHog](https://posthog.com/) for analytics and A/B testing - soon
+- [PostHog](https://posthog.com/) for open sourcee analytics and A/B testing - soon

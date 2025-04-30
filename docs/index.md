@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: 'Campaign website'
-  text: 'Tools for digital organizing'
-  tagline: Documentation and strategy for the open source campaign website of Milieudefensie.
+  text: Strategy and documentation
+  tagline: Strategy and documentation for the open source campaign website of Milieudefensie.
   actions:
     - theme: brand
       text: Read the docs
@@ -19,8 +19,8 @@ features:
     title: Donate
     details: Become part of our movement by making a financial contribution.
   - icon: 📱
-    title: Online actions
-    details: Become part of our movement by making a financial contribution.
+    title: Online campaigns
+    details: Easy ways to take action online and mobilize your community.
   - icon: 📆
     title: Events
     details: Get involved by participating in an event or organizing one yourself.
