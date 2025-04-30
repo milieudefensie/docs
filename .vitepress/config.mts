@@ -34,6 +34,7 @@ export default defineConfig({
         text: 'Strategy',
         items: [
           { text: 'Website strategy', link: '/strategy' },
+          { text: 'Design principles', link: '/strategy/design-principles' },
 
           {
             text: 'Pages',
