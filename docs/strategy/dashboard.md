@@ -6,4 +6,6 @@
 
 ## Types of users
 
-...
+- Organizing employees
+- Online/digital/communication employees
+- Local organizers (volunteers)

@@ -4,6 +4,10 @@
 
 We want to make use of a consistent design language.
 
+- Primary color: #ffa300 (orange)
+- Secondary color: #9a49e2 (purple)
+- Tertiary color: #69be28 (green)
+
 ## Ease of use
 
 - We want to make it as easy as possible to manage the website content as an admin.
@@ -28,6 +32,7 @@ Where 1 is the least value (fewer people click these items), and 5 is the most v
 - Secondary nav items: 4/5
 - Tertiary nav items: 3/5
 - Footer items: 2/5
+- On-page links: 1/5
 
 ### Page position values
 

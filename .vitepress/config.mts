@@ -13,6 +13,11 @@ export default defineConfig({
     search: {
       provider: 'local',
     },
+    footer: {
+      // message: 'Released under the MIT License.',
+      copyright:
+        'All content on this website is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence',
+    },
     nav: [
       { text: 'Strategy', link: '/strategy/' },
       {
