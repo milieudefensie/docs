@@ -11,7 +11,7 @@ More specifically, our campaign website helps us to do the following at scale:
 - 👑 **Develop leadership**: We're building strong and scalable groups that get things done by giving our change-makers the tools, frameworks and support to learn how to organize themselves. By providing easily replicable tactics to participate in, we give new change-makers low-barrier ways to become familiar with our movement. At the same time, we develop leadership by trusting our change-makers with vital responsibilities.
 - 💪 **Build people power**: We're building people power by making decisions together as movement members, by taking action with large numbers of people and by drawing attention to our message through creative actions.
 
-## Theorectical foundation
+## Theoretical foundation
 
 - [Sociability](https://joppehoekstra.notion.site/Sociability-158f016475e6800f940cd4ffaf958f8a?source=copy_link)
 - [Proximity](https://joppehoekstra.notion.site/Proximity-158f016475e68065b2f4dbe2d92db3f3?source=copy_link)

@@ -1,7 +1,10 @@
 # User stories: Events
 
 ::: info
-🔗 View page: [veranderaars.milieudefensie.nl/agenda](https://veranderaars.milieudefensie.nl/agenda)
+🇳🇱 **Title**: "Evenementen"
+⭐️ **Navigation position**: 4/5
+🔗 **View page**: [veranderaars.milieudefensie.nl/agenda](https://veranderaars.milieudefensie.nl/agenda)
+🔗 **Redesign**: [beweging.milieudefensie.nl/events](https://beweging.milieudefensie.nl/events)
 :::
 
 Goals:
