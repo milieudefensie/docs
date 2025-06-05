@@ -15,6 +15,7 @@ The list below is a concept, based on our experimental campaign website codebase
 
 ## Back-end
 
+- [Firebase](https://firebase.google.com/) for authentication, realtime database and AI text generation
 - [Directus](https://directus.io/) as headless CMS - soon
 - [Windmill](https://www.windmill.dev/) for automation - soon
 
@@ -28,9 +29,10 @@ Analytics and A/B testing:
 
 ## Development tools
 
-- Storybook for component development
-- PNPM for package management
+- [Storybook](https://storybook.nuxtjs.org/) for component development
+- [PNPM](https://pnpm.io/) for package management
 
 ## Other tools
 
-- Signal for local group chats
+- [Signal](https://signal.org/) for local group chats
+- See [package.json](https://github.com/milieudefensie/website/blob/main/package.json) for all dependencies

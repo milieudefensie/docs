@@ -9,3 +9,11 @@
 :::
 
 <iframe src="https://pitch.com/embed-link/82s6y4" allow="fullscreen; clipboard-write" allowfullscreen="" width="100%" height="450" style="border:0"></iframe>
+
+## Info for developers
+
+Built using:
+
+- [Firebase AI logic](https://firebase.google.com/docs/ai-logic) for generating responses
+- [Firestore](https://firebase.google.com/docs/firestore) for storing chat history
+- [Firebase Authentication](https://firebase.google.com/docs/auth) for anonymous user authentication (no sign in required)

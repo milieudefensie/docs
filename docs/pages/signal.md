@@ -5,7 +5,7 @@
 
 ⭐️ **Navigation position**: 4/5
 
-🔗 **View page**: [veranderaars.milieudefensie.nl/whatsapp](https://veranderaars.milieudefensie.nl/whatsapp)
+🔗 **View page**: [veranderaars.milieudefensie.nl/signal](https://veranderaars.milieudefensie.nl/signal)
 :::
 
 Goals:

@@ -48,33 +48,33 @@ export default defineConfig({
               { text: 'Volunteers', link: '/strategy/journeys/volunteers' },
             ],
           },
+        ],
+      },
+      {
+        text: 'Pages & tools',
+        collapsed: true,
+        items: [
+          { text: '🏡 Home', link: '/pages/home' },
           {
-            text: 'Pages',
-            collapsed: true,
-            items: [
-              { text: '🏡 Home', link: '/strategy/pages/home' },
-              {
-                text: '👉 Start contributing',
-                link: '/strategy/pages/contribute',
-              },
-              { text: '❤️ Become member', link: '/strategy/pages/member' },
-              { text: '💬 Signal', link: '/strategy/pages/signal' },
-              {
-                text: '📱 Online campaigns',
-                link: '/strategy/pages/campaigns',
-              },
-              { text: '💰 Donate', link: '/strategy/pages/donate' },
-              { text: '📆 Events', link: '/strategy/pages/events' },
-              { text: '📍 Local groups', link: '/strategy/pages/local-groups' },
-              {
-                text: '📖 Training & support',
-                link: '/strategy/pages/training-support',
-              },
-              { text: '💬 Live AI chat', link: '/strategy/pages/chat' },
-              { text: '☎️ Contacts', link: '/strategy/pages/contacts' },
-              { text: '🗺️ Dashboard', link: '/strategy/pages/dashboard' },
-            ],
+            text: '👉 Start contributing',
+            link: '/pages/contribute',
           },
+          { text: '❤️ Become member', link: '/pages/member' },
+          { text: '💬 Signal', link: '/pages/signal' },
+          {
+            text: '📱 Online campaigns',
+            link: '/pages/campaigns',
+          },
+          { text: '💰 Donate', link: '/pages/donate' },
+          { text: '📆 Events', link: '/pages/events' },
+          { text: '📍 Local groups', link: '/pages/local-groups' },
+          {
+            text: '📖 Training & support',
+            link: '/pages/training-support',
+          },
+          { text: '💬 Live AI chat', link: '/pages/chat' },
+          { text: '☎️ Contacts', link: '/pages/contacts' },
+          { text: '🗺️ Dashboard', link: '/pages/dashboard' },
         ],
       },
       {

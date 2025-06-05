@@ -16,3 +16,84 @@ Goals:
 - People looking to do something **fun** and **social** (meet other like-minded people)
 - People who want to **get involved** in our movement
 - People who want to **organize something**, for example a local event or travel-together.
+
+## Info for developers
+
+Event categories:
+
+- Highlighted events ⭐️
+- Near you ('City') ⭐️
+- Today / Tonight
+- Tomorrow ('Day')
+- Later this week ('Day',
+  'Day',
+  ...) / 'Friday'
+- This weekend (Sat,
+  Sun)
+- Next week
+- Later this month (‘Month')
+- Next month ('Month'): this month +1
+- ‘Month’: this month +2,
+  etc
+
+We show different event categories based on the day of the week.
+
+ON ALL DAYS
+
+- Highlighted events ⭐️
+- Near you ('City')
+  ...⭐️based on the day of the week ...
+- Later this month: only if the end of 'Next week' is before the end of this month
+- Next month
+- 'Month'
+
+MONDAY
+
+- Today / Tonight
+- Tomorrow (Tue)
+- Later this week (Wed,
+  Thu,
+  Fri)
+- This weekend
+- Next week
+
+TUESDAY
+
+- Today / Tonight
+- Tomorrow (Wed)
+- Later this week (Thu,
+  Fri)
+- This weekend
+- Next week
+
+WEDNESDAY
+
+- Today / Tonight
+- Tomorrow (Thu)
+- Friday
+- This weekend
+- Next week
+
+THURSDAY
+
+- Today / Tonight
+- Tomorrow (Fri)
+- This weekend
+- Next week
+
+FRIDAY
+
+- Today / Tonight
+- This weekend
+- Next week
+
+SATURDAY
+
+- Today / Tonight
+- Tomorrow (Sun)
+- Next week
+
+SUNDAY
+
+- Today / Tonight
+- Next week
