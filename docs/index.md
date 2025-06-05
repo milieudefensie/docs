@@ -33,4 +33,10 @@ features:
   - icon: 🗺️
     title: Dashboard
     details: Get insights into the progress our movement is making.
+  - icon: 💬
+    title: Live AI chat
+    details: Become onboarded as as a new member with a live chat that is powered by people and AI.
+  - icon: ☎️
+    title: Contact list
+    details: Call new members within 24 hours as local group organizer.
 ---

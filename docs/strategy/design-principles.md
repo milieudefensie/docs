@@ -10,7 +10,8 @@ We want to make use of a consistent design language.
 
 ## Ease of use
 
-- We want to make it as easy as possible to manage the website content as an admin.
+- Anyone should be able to use our website, regardless of their technical skills.
+- We want to make it as easy as possible to manage the website content as an admin (less complexity is better)
 
 ## Accessibility
 
@@ -18,7 +19,7 @@ The design should be accessible and well-optimized for most types of people and 
 
 ## Loading speed
 
-Fast loading speeds
+Fast loading speeds lead to more conversions.
 
 ## Nudging
 

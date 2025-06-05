@@ -42,21 +42,37 @@ export default defineConfig({
           { text: 'Design principles', link: '/strategy/design-principles' },
 
           {
-            text: 'Pages',
+            text: 'Journeys',
+            collapsed: true,
             items: [
-              { text: '🏡 Home', link: '/strategy/home' },
-              { text: '👉 Start contributing', link: '/strategy/contribute' },
-              { text: '❤️ Become member', link: '/strategy/member' },
-              { text: '💬 Signal / WhatsApp', link: '/strategy/signal' },
-              { text: '📱 Online campaigns', link: '/strategy/campaigns' },
-              { text: '💰 Donate', link: '/strategy/donate' },
-              { text: '📆 Events', link: '/strategy/events' },
-              { text: '📍 Local groups', link: '/strategy/local-groups' },
+              { text: 'Volunteers', link: '/strategy/journeys/volunteers' },
+            ],
+          },
+          {
+            text: 'Pages',
+            collapsed: true,
+            items: [
+              { text: '🏡 Home', link: '/strategy/pages/home' },
+              {
+                text: '👉 Start contributing',
+                link: '/strategy/pages/contribute',
+              },
+              { text: '❤️ Become member', link: '/strategy/pages/member' },
+              { text: '💬 Signal', link: '/strategy/pages/signal' },
+              {
+                text: '📱 Online campaigns',
+                link: '/strategy/pages/campaigns',
+              },
+              { text: '💰 Donate', link: '/strategy/pages/donate' },
+              { text: '📆 Events', link: '/strategy/pages/events' },
+              { text: '📍 Local groups', link: '/strategy/pages/local-groups' },
               {
                 text: '📖 Training & support',
-                link: '/strategy/training-support',
+                link: '/strategy/pages/training-support',
               },
-              { text: '🗺️ Dashboard', link: '/strategy/dashboard' },
+              { text: '💬 Live AI chat', link: '/strategy/pages/chat' },
+              { text: '☎️ Contacts', link: '/strategy/pages/contacts' },
+              { text: '🗺️ Dashboard', link: '/strategy/pages/dashboard' },
             ],
           },
         ],

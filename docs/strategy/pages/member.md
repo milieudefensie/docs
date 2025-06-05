@@ -10,7 +10,9 @@
 
 ## Type of users
 
-...
+- People who are looking for a community to join.
+- People who are looking for a way to support the work of Milieudefensie.
+- People who want to become an active member of our movement.
 
 ## Follow up
 
