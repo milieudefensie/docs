@@ -48,7 +48,8 @@ export default defineConfig({
               { text: 'Volunteers', link: '/strategy/journeys/volunteers' },
             ],
           },
-          { text: '📊 Data & tests', link: '/data' },
+          { text: '📊 Data & tests', link: '/strategy/data' },
+          { text: '🔮 Roadmap', link: '/strategy/roadmap' },
         ],
       },
 

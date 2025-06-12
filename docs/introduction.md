@@ -9,6 +9,7 @@ We have put a lot of time, energy and money into our campaign website. Rather th
 These articles are meant both for own internal Milieudefensie staff to use (web developers, digital organizers, online marketeers, communication experts, etc), as well as for other organisations who are looking for inspiration for their own tech stack. By developing the Milieudefensie website as an open source project, we hope to stimulate collaboration among digital organizers and developers in the broader social change community.
 
 - [Strategy](/strategy): why we have a website
+- [Pages](/pages/home): overview of the pages on our website
 - [Storybook](https://milieudefensie-storybook.pages.dev/): preview our reusable components
 - [GitHub repro](https://github.com/milieudefensie/website): code base
 
