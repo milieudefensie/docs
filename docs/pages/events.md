@@ -20,6 +20,10 @@ Goals:
 - People who want to **get involved** in our movement
 - People who want to **organize something**, for example a local event or travel-together.
 
+## Introduction event
+
+https://mailchi.mp/powerlabs/follow-up-resources-from-designing-effective-campaign-calls
+
 ## Info for developers
 
 Event categories:

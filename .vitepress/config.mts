@@ -36,20 +36,22 @@ export default defineConfig({
         items: [{ text: 'Introduction', link: '/introduction' }],
       },
       {
-        text: 'Strategy',
+        text: ' Strategy',
         items: [
-          { text: 'Website strategy', link: '/strategy' },
-          { text: 'Design principles', link: '/strategy/design-principles' },
+          { text: '🎯 Website strategy', link: '/strategy' },
+          { text: '🎨 Design principles', link: '/strategy/design-principles' },
 
           {
-            text: 'Journeys',
+            text: '🚀 Journeys',
             collapsed: true,
             items: [
               { text: 'Volunteers', link: '/strategy/journeys/volunteers' },
             ],
           },
+          { text: '📊 Data & tests', link: '/data' },
         ],
       },
+
       {
         text: 'Pages & tools',
         collapsed: true,
