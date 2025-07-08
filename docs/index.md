@@ -5,7 +5,7 @@ layout: home
 hero:
   name: 'Campaign website'
   text: Strategy and documentation
-  tagline: Strategy and documentation for the open source campaign website of Milieudefensie.
+  tagline: Strategy and documentation for the open source experimental campaign website of Milieudefensie.
   actions:
     - theme: brand
       text: Read the docs
@@ -23,7 +23,7 @@ features:
     details: Easy ways to take action online and mobilize your community.
   - icon: 📆
     title: Events
-    details: Get involved by participating in an event or organizing one yourself.
+    details: Join an event, travel together and organizing an event yourself.
   - icon: 📍
     title: Local groups
     details: Get to know change-makers near you and organize together.

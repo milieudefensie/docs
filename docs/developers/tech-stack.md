@@ -1,6 +1,6 @@
-# Tech stack
+# Experimental tech stack
 
-This campaign website is build using the [Jamstack](https://jamstack.org/) architecture, which allows for fast iterations and innovation. All pages are statically generated at build time and served from a CDN. We're using Typescript for type safety and better code quality.
+Our experimental campaign website is build using the [Jamstack](https://jamstack.org/) architecture, which allows for fast iterations and innovation. All pages are statically generated at build time and served from a CDN. We're using Typescript for type safety and better code quality.
 
 :::info
 The list below is a concept, based on our experimental campaign website codebase. Our actual production tech stack differs (uses Plone CMS & Dato CMS).
